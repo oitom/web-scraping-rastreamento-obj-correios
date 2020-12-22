@@ -1,2 +1,2 @@
-# Rastreamento-de-objetos-correios
-Rastreamento e captura dos status, data, local dos objetos postado no correios informando o número de rastreio.
+# Web Scraping - Rastreamento de objetos correios
+Web scraping da tabela de resultados (status, data e local) de um determinado objeto postado no correios com base no número de rastreio.
